@@ -31,8 +31,6 @@ Follow these steps to run the project on your local machine:
    - You can simply double-click on `index.html` or
    - Open with Live Server (if using VS Code)
 
-## 📷 Screenshots
-
 
 ## 📌 Future Enhancements
 - Add JavaScript for interactivity
